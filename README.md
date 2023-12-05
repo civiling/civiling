@@ -1,6 +1,6 @@
 ### 👋 Hey, I'm civil.
 
------
+
 
 <!--
 **civiling/civiling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +25,7 @@ My research interests lie at Natural Language Processing (NLP) and Machine Learn
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaborations, discussions, or just to share interesting ideas.
 
------
+
 
 ## 🛠️ Tech Stack
 
@@ -49,15 +49,20 @@ Feel free to explore my repositories, and don't hesitate to reach out for collab
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
------
+
 
 ## 🌱 What I'm Currently Working On
 
 📚 Enhancing my expertise in NLP algorithms and Machine Learning models.
+
 🌐 Building my projects.
 
------
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=civiling)](https://github.com/civiling/github-readme-stats) -->
+
+
 
 ## 🤝 Connect with Me
 
-d17898432996@gmail.com
+📧 [](mailto:d17898432996@gmail.com)
