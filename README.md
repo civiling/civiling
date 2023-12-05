@@ -65,4 +65,4 @@ Feel free to explore my repositories, and don't hesitate to reach out for collab
 
 ## 🤝 Connect with Me
 
-📧 [](mailto:d17898432996@gmail.com)
+[📧](mailto:d17898432996@gmail.com)
