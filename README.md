@@ -55,7 +55,7 @@ Feel free to explore my repositories, and don't hesitate to reach out for collab
 
 📚 Enhancing my expertise in NLP algorithms and Machine Learning models.
 
-🌐 Building my projects.
+🌐 Building [Aspect Oriented Summarization with Semi-supervised Learning](https://github.com/civiling/Aspect-Oriented-Summarization-with-Semi-supervised-Learning).
 
 
 
