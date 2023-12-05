@@ -1,5 +1,7 @@
-### Hey, I'm civil.
----
+### 👋 Hey, I'm civil.
+
+-----
+
 <!--
 **civiling/civiling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
-## A little bit about me
+
+## 👨‍💻 A little bit about me
 
 I'm a Software Engineer with a background in Data Science.
 
@@ -23,7 +25,10 @@ My research interests lie at Natural Language Processing (NLP) and Machine Learn
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaborations, discussions, or just to share interesting ideas.
 
-## Tech Stack
+-----
+
+## 🛠️ Tech Stack
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -43,3 +48,16 @@ Feel free to explore my repositories, and don't hesitate to reach out for collab
 ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+-----
+
+## 🌱 What I'm Currently Working On
+
+📚 Enhancing my expertise in NLP algorithms and Machine Learning models.
+🌐 Building my projects.
+
+-----
+
+## 🤝 Connect with Me
+
+d17898432996@gmail.com
