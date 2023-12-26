@@ -1,4 +1,4 @@
-### 👋 Hey, I'm civil.
+### Hey, I'm civil.
 
 
 
